@@ -1,16 +1,21 @@
 # Password_Generator
 
+
 ## Table of Contents
+
 - [Description]
 - [Usage]
 - [Links]
 - [Questions]
 
+
 ## Description
+
 A password generator that provides the user with a randomly selected password. The user has a choice of the password being between 8 to 128 characters, and of including lowercase, uppercase, numbers and special characters.
 
 
 ## Usage
+
 The initial page allows the user to click on the "Generate Paddword" button. <br>
 <img src="images/intro-page.JPG" alt="Introduction Page"/>
 
@@ -22,9 +27,11 @@ After the final question is answered the user's newly automattically generated p
 
 
 ## Links
+
 Link to GitHub Pages: <https://glevii.github.io/Password_Generator/>
 
 
 ## Questions
+
 For any questions feel free to reach out: <br>
 Email: <georginalevitki@gmail.com>
