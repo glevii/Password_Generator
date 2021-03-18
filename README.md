@@ -16,11 +16,11 @@ A password generator that provides the user with a randomly selected password. T
 
 ## Usage
 
-The initial page allows the user to click on the "Generate Paddword" button.
+The initial page allows the user to click on the "Generate Password" button.
 ![Introduction](https://raw.githubusercontent.com/glevii/Password_Generator/main/Images/intro-page.JPG) <br>
 
 The user will then be asked a series of questions that allows them to decide what is included in the password.
-![First Question]((https://raw.githubusercontent.com/glevii/Password_Generator/main/Images/first-prompt.JPG)  <br>
+![First Question](https://raw.githubusercontent.com/glevii/Password_Generator/main/Images/first-prompt.JPG)  <br>
 
 After the final question is answered the user's newly automattically generated password will be displayed.
 ![Generated Password](https://raw.githubusercontent.com/glevii/Password_Generator/main/Images/password-generated.JPG) <br>
