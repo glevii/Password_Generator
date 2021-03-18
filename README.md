@@ -1,10 +1,12 @@
 # Password_Generator
 
+
 ## Table of Contents
 - [Description]
 - [Usage]
 - [Links]
 - [Questions]
+
 
 ## Description
 A password generator that provides the user with a randomly selected password. The user has a choice of the password being between 8 to 128 characters, and of including lowercase, uppercase, numbers and special characters.
@@ -12,13 +14,13 @@ A password generator that provides the user with a randomly selected password. T
 
 ## Usage
 The initial page allows the user to click on the "Generate Paddword" button.
-![Introduction Page](images/intro-page.jpg)
+![Introduction Page](/images/intro-page.jpg)
 
 The user will then be asked a series of questions that allows them to decide what is included in the password.
-![First Prompt](images/first-prompt.jpg)
+![First Prompt](/images/first-prompt.jpg)
 
 After the final question is answered the user's newly automattically generated password will be displayed.
-![Generated Password](images/password-generated.jpg)
+![Generated Password](/images/password-generated.jpg)
 
 
 ## Links
